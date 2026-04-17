@@ -1,1 +1,1 @@
-[IntelliJ Idea](https://wokwi.com/projects/461532547701838849)
+https://wokwi.com/projects/461532547701838849
